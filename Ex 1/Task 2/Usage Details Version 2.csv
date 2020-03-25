@@ -1,0 +1,9 @@
+﻿Provisioning Status,,,,,,,,,,,,,,,
+Subscription ID,Subscription Name,Order Id,Description,Billing Date(Anniversary Date),Offer Name,Service Name,Subs Status,Subs Extra Status,Provisioning Status,,,,,,
+"""5fb28c93-02b2-4849-843b-0232516149a4""","""Azure for Students""","""558b163e-af54-464f-b104-bbb3c6e00280""","""Azure for Students""",11,,"""Azure Service Component""",Enabled,None,Provisioned,,,,,,
+,,,,,,,,,,,,,,,
+Statement,,,,,,,,,,,,,,,
+Billing Period,Meter Category,Meter Sub-category,Meter Name,Meter Region,SKU,Unit,Consumed Quantity,Included Quantity,Within Commitment,Overage Quantity,Currency,Overage,Commitment Rate,Rate,Value
+,,,,,,,,,,,,,,,
+Daily Usage,,,,,,,,,,,,,,,
+Usage Date,Meter Category,Meter Id,Meter Sub-category,Meter Name,Meter Region,Unit,Consumed Quantity,Resource Location,Consumed Service,Resource Group,Instance Id,Tags,Additional Info,Service Info 1,Service Info 2

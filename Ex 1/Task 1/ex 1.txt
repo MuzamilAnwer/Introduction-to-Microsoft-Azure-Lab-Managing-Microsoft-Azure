@@ -1,0 +1,6 @@
+in task 6 there is add tags to hub menu and when i navigate tags there is no hub menu so i read documentation and going for this link
+ Learn more about tags(https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
+
+in task 7 i am confused that blade is something but after search few hours i get to know that blad mean go to home page and search
+ some specific property 
+

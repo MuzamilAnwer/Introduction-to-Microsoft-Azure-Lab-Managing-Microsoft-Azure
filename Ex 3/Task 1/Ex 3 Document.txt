@@ -1,0 +1,3 @@
+Install-Module -Name Az -AllowClobber -Scope CurrentUser
+Connect-AzAccount
+Get-AzResourceProvider -ListAvailable | Select-Object ProviderNamespace,RegistrationState

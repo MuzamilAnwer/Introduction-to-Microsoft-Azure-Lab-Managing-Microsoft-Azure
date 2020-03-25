@@ -1,0 +1,11 @@
+in task 6 there is add tags to hub menu and when i navigate tags there is no hub menu so i read documentation and going for this link
+ Learn more about tags(https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
+
+in task 7 i am confused that blade is something but after search few hours i get to know that blad mean go to home page and search
+ some specific property 
+
+in task 2
+it is very difficult because we donot found summary of Usage details then i search in youtube and then after spend my 2 days in that task then i found 
+how to download usage details i can do many struggles and play with diffrent clicks then i suddenly hit Manage button in overview section of subscription
+there i found usage details
+
